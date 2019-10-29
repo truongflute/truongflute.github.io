@@ -1,6 +1,6 @@
 /**
- * Quang Trường (Quyetdaik)
- * https://fb.com/nhquyet
+ * Quang Trường (Truong hip)
+ * https://fb.com/truong.flute.it
  */
 
  body {
@@ -325,4 +325,8 @@ audio {
 	clear: both;
 	margin: 0;
 	padding: 0;
+}
+h1 {
+	color: rgba(0, 255, 128, 0.336);
+	flex:flex;
 }
